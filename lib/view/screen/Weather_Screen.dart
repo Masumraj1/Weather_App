@@ -217,8 +217,8 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-import 'additinal_Info_Item.dart';
-import 'weather_forecast_item.dart';
+import 'inner_widgets/additinal_Info_Item.dart';
+import 'inner_widgets/weather_forecast_item.dart';
 
 class WeatherScreen extends StatelessWidget {
   const WeatherScreen({super.key});
